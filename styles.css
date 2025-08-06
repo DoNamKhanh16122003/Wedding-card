@@ -120,28 +120,29 @@ s
     }
 
     .page-content h1 {
-      font-family: Montserrat, sans-serif;
+      font-family: 'Great Vibes', sans-serif;
       font-weight: bold;
       font-size: 32px;
       margin-top: 0;
       margin-bottom: 14px;
       text-align: center;
       color: #7f6241;
+      gap:5px;
     }
 
     .invitation {
       text-align: center;
       font-style: italic;
       margin-bottom: 24px;
-      font-size: 20px;
-      color: #7f6241;
-      font-family: Montserrat, sans-serif;
+      font-size: 22px;
+      color: #634d34;
+      font-family: 'Great Vibes', sans-serif;
     }
 
     .couple-names {
       text-align: center;
       font-weight: bold;
-      font-size: 28px;
+      font-size: 55px;
       margin-bottom: 20px;
       font-family: 'Great Vibes', cursive;
       color: #7f6241;
@@ -150,19 +151,30 @@ s
     .date-time {
       text-align: center;
       margin-bottom: 24px;
-      font-family:Montserrat, sans-serif;
-      font-weight: bolder;
-      color: #7f6241;
+      font-family:'Great Vibes', sans-serif;
+      color: #634d34;
       padding-top:20px;
+      font-size: 22px;
     }
     .location {
       text-align: center;
-      color: #7f6241;
+      color: #634d34;
       margin-bottom: 20px;
-      font-family: Montserrat, sans-serif;
-      font-weight: bold;
+      font-family: 'Great Vibes', sans-serif;
+      
+      font-size: 22px;
     }
-
+    
+    .luna {
+      text-align: center;
+      font-size: 22px;
+      color: #634d34;
+      margin-bottom: 20px;
+      padding-top:5px;
+      font-family: 'Great Vibes', sans-serif;
+      padding-bottom:10px;
+      
+    }
     .dot {
       text-align: center;
       font-size: 24px;
